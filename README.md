@@ -1,2 +1,2 @@
 # future-project
-![file](future prje)
+![file](future project.qea)
